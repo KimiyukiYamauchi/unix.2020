@@ -13,14 +13,14 @@
 - [https://github.com/s20013]	瀬底　泰治 ok
 - [https://github.com/s20014]	善福　太稀 ok
 - [https://github.com/s20015]	玉城　裕資 ok
-- [https://github.com/s20016]	Tinio John Christiana ok
+- [https://github.com/s20016]	Tinio John Christian ok
 - [https://github.com/s20017]	手登根　龍也 ok
 - [https://github.com/s20018]	照屋　飛雅 ok
 - [https://github.com/s20019]	天願　嘉向 ok
 - [https://github.com/s20020]	濱川　大雅 ok
 - [https://github.com/s20021]	東恩納　眞王 ok
 - [https://github.com/s20022]	福里　陸 ok
-- [https://github.com/s20023]	又吉　毅 ng
+- [https://github.com/s20023]	又吉　毅 ok
 - [https://github.com/s20024]	屋良　祐利 ok
 - [https://github.com/n20001]	安達　龍樹 ok
 - [https://github.com/n20002]	池村　嵐央 ok
@@ -32,7 +32,7 @@
 - [https://github.com/n20009]	國吉　康斗 ng
 - [https://github.com/n20010]	佐谷　公紀 ok
 - [https://github.com/n20011]	城間　一輝 ok
-- [https://github.com/n20012]	瀬川　裕 ng
+- [https://github.com/n20012]	瀬川　裕 ok
 - [https://github.com/n20013]	髙宮城　美咲 ok
 - [https://github.com/n20014]	玉澤　史稀 ok
 - [https://github.com/n20015]	田本　斗希也 ok
@@ -44,9 +44,9 @@
 - [https://github.com/n20021]	比嘉　涼 ok
 - [https://github.com/n20022]	平田　晴香 ok
 - [https://github.com/n20023]	三浦　凌 ok
-- [https://github.com/n20024]	宮城　稜 ng
-- [https://github.com/n20025]	宮城　瑠唯 ng
-- [https://github.com/n20026]	宮平　樹 ng
+- [https://github.com/n20024]	宮城　稜 ok
+- [https://github.com/n20025]	宮城　瑠唯 ok
+- [https://github.com/n20026]	宮平　樹 ok
 - [https://github.com/n20027]	宮山　翔馬 ok
 - [https://github.com/n20028]	山城　優大 ok
 - [https://github.com/n20029]	與儀　瑠架 ok
